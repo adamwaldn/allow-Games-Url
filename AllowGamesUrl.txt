@@ -62,3 +62,5 @@ stats.jpchd.veraxen.com
 game-5-sh5.rush.my.games
 mrgs.mg-inf.com
 mrgs-api.mg-inf.com
+45.66.96.247
+45.66.96.54
