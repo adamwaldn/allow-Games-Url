@@ -64,3 +64,5 @@ mrgs.mg-inf.com
 mrgs-api.mg-inf.com
 45.66.96.247
 45.66.96.54
+mrgs.my.games
+45.66.96.49
