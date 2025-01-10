@@ -68,3 +68,4 @@ mrgs.my.games
 45.66.96.49
 game-4-sh5.rush.my.games
 mrgs-api.my.games
+login.rush.my.games
